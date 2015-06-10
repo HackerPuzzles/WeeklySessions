@@ -5,6 +5,7 @@ Topic: Hadoop
 
 Introduction:
 
+ - Current stable release: Hadoop 2.7
  - <a href="http://en.wikipedia.org/wiki/Apache_Hadoop">wiki: Apache Hadoop</a>
  - <a href="http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html">MapReduce Tutorial</a>
  - Hortonworks: <a href="http://hortonworks.com/hadoop-tutorial/hello-world-an-introduction-to-hadoop-hcatalog-hive-and-pig/">Hello World! – An introduction to Hadoop with Hive and Pig</a>
