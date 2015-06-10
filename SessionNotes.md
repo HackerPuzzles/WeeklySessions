@@ -12,8 +12,6 @@ Introduction:
    - The Hortonworks Sandbox is a single node implementation of the Hortonworks Data Platform(HDP). 
    - It is packaged as a virtual machine to make evaluation and experimentation with HDP fast and easy.
    - Installation of the Hortonworks VM needs 4-8 GB of RAM, and host machine should have 8-10 GB of RAM.
-
-More tutorials:
  - <a href="https://www.youtube.com/watch?v=A02SRdyoshM">Youtube: Big Data and Hadoop tutorial</a>
 
 More details:
