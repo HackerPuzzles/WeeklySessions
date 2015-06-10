@@ -3,7 +3,7 @@ Date: 06/10/2015
 
 Topic: Hadoop
 
-Articles:
+Introduction:
 
  - <a href="http://en.wikipedia.org/wiki/Apache_Hadoop">wiki: Apache Hadoop</a>
  - <a href="http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html">MapReduce Tutorial</a>
@@ -11,6 +11,15 @@ Articles:
    - The Hortonworks Sandbox is a single node implementation of the Hortonworks Data Platform(HDP). 
    - It is packaged as a virtual machine to make evaluation and experimentation with HDP fast and easy.
    - Installation of the Hortonworks VM needs 4-8 GB of RAM, and host machine should have 8-10 GB of RAM.
+
+More tutorials:
+ - <a href="http://hadooptutorial.wikispaces.com/Hadoop">Hadoop tutorial</a>
+ - <a href="https://developer.yahoo.com/hadoop/tutorial/index.html>Yahoo: Hadoop tutorial</a>
+ - <a href="https://www.youtube.com/watch?v=A02SRdyoshM">Youtube: Big Data and Hadoop tutorial</a>
+
+More details:
+ - <a href="http://wiki.apache.org/hadoop/">Apache Hadoop wiki</a>
+ - <a href="https://wiki.apache.org/nutch/NutchHadoopTutorial">Apache Nutch and Hadoop tutorial</a>
 
 
 Date: 03/06/2015
