@@ -17,6 +17,9 @@ Introduction:
 More details:
  - <a href="http://wiki.apache.org/hadoop/">Apache Hadoop wiki</a>
  - <a href="https://wiki.apache.org/nutch/NutchHadoopTutorial">Apache Nutch and Hadoop tutorial</a>
+ - <a href="http://cs.smith.edu/dftwiki/index.php/Setup_Virtual_Hadoop_Cluster_under_Ubuntu_with_VirtualBox">Hadoop 1.1.2: Setup Virtual Hadoop Cluster under Ubuntu with VirtualBox</a>
+ - <a href="http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/">Hadoop 1.0.3: Running Hadoop on Ubuntu Linux (Single-Node Cluster)</a>
+ - <a href="http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/">Hadoop 1.0.3: Running Hadoop on Ubuntu Linux (Multi-Node Cluster)</a>
  - <a href="http://hadooptutorial.wikispaces.com/Hadoop">Hadoop 0.20.2 tutorial</a>
  - <a href="https://developer.yahoo.com/hadoop/tutorial/index.html">Yahoo: Hadoop 0.18.0 tutorial</a>
 
