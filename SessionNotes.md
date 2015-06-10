@@ -14,7 +14,7 @@ Introduction:
    - Installation of the Hortonworks VM needs 4-8 GB of RAM, and host machine should have 8-10 GB of RAM.
  - <a href="https://www.youtube.com/watch?v=A02SRdyoshM">Youtube: Big Data and Hadoop tutorial</a>
 
-More details:
+More (and out-dated):
  - <a href="http://wiki.apache.org/hadoop/">Apache Hadoop wiki</a>
  - <a href="https://wiki.apache.org/nutch/NutchHadoopTutorial">Apache Nutch and Hadoop tutorial</a>
  - <a href="http://cs.smith.edu/dftwiki/index.php/Setup_Virtual_Hadoop_Cluster_under_Ubuntu_with_VirtualBox">Hadoop 1.1.2: Setup Virtual Hadoop Cluster under Ubuntu with VirtualBox</a>
