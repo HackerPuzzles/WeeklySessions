@@ -37,6 +37,9 @@ Articles:
  - <a href="https://code.facebook.com/posts/378953568900147/under-the-hood-hadoop-distributed-filesystem-reliability-with-namenode-and-avatarnode/">Under the Hood: Hadoop Distributed Filesystem reliability with Namenode and Avatarnode </a>
  - <a href="https://seravo.fi/2015/10-reasons-to-migrate-to-mariadb-if-still-using-mysql">10 reasons to migrate to MariaDB (if still using MySQL)</a>
 
+Date: 18/06/2015
+
+ - Installed <a href="http://haxe.org/manual/introduction-hello-world.html">Haxe</a> in hopes of learning a langugae that is multi-plantform.  Had a bit of frustration with getting the HelloWorld example to run.
 
 
 
